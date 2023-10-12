@@ -59,3 +59,44 @@ Kemudian diatas berfungsi untuk menginialisasi dari variabel "cashier" yang tela
 
 #OUTPUT
 
+1.Karyawan
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/d15dab0c-03f0-4bbe-a3f9-9e8d2ba95af2)
+
+2.Manager
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/0a17dfa5-6f0e-4b35-b7ba-c5025d74025f)
+
+3.Kasir
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/a84be0b7-5f23-40b4-a3d3-638bcce43778)
+
+4.Pelanggan
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/b6eff57f-6edd-4ab7-a3fd-8b4378df5455)
+
+5.Barang
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/0528d8bc-26f0-486b-ab9a-3ac2b37427a1)
+
+6.Tampilkan informasi
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/679e510a-7126-4834-9a36-7f4979f959b1)
+
+7.Perbarui informasi
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/53d8f439-7c7d-4110-8061-c3f771cc8a5d)
+
+8.Hapus informasi
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/809ff895-11bb-490b-8126-bdee003870ab)
+
+9.Exit
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/a140ad5f-5b73-4115-923d-fdc6e9e2dca3)
+
+tambahan output jika salah memasukkan entitas
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/c1a241df-aa25-4bc6-952a-8f7b3bf3c4a3)
+
+![image](https://github.com/Anza2222/pbo-post-test-2/assets/115331048/ad9c3cb7-bc0a-4d74-9a0a-7c10584ab792)
